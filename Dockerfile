@@ -21,3 +21,4 @@ EXPOSE 3000
 
 # Etapa 8: Definir o comando para iniciar a aplicação
 CMD ["npm", "start"]
+//teste deu erro.. continuar
